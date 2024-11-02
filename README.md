@@ -47,6 +47,14 @@ To create effective recommendations, we implemented and evaluated the following 
 
 All models were evaluated using the **F1 Score@5** metric, which measures precision and recall within the top-5 recommendations, aligning with the competition’s focus on identifying relevant tags.
 
+| **Model**                                | **F1 score@5** |
+|------------------------------------------|-----------------|
+| Collaborative Denoising Autoencoder (CDAE) | 4%              |
+| Alternating Least Squares (ALS)         | 24.96%          |
+| Bivariate Variational Autoencoder (BiVAE) | 49%             |
+| Bayesian Personalized Ranking (BPR)     | 50.3%           |
+
+
 ## Project Challenges and Learnings
 
 This project involved handling large volumes of Stack Overflow data and experimenting with data augmentation techniques. Some key takeaways include:

@@ -1,6 +1,6 @@
 # Concept Positioning System
 
-Welcome to the Concept Positioning System project! This repository contains the code, data processing pipelines, and model implementations developed to build a personalized concept recommendation system using Stack Overflow data.
+Welcome to the Concept Positioning System project! This repository contains the code, data processing pipelines, and model implementations developed to build a personalized concept recommendation system using Stack Overflow data. This work was done as part of the Summer Research we (Aishini B, Girik Khullar, Sabari Srinivas) did at IIT Ropar from May-July 2024.
 
 ## Project Overview
 
